@@ -14,7 +14,7 @@
             <pubDate>Fri, 29 May 2026 21:02:00 +0800</pubDate>
             <enclosure 
                 url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.2/Clipo_Setup.dmg"
-                sparkle:version="1.0.2"
+                sparkle:version="1"
                 sparkle:shortVersionString="1.0.2"
                 length="8621406"
                 type="application/octet-stream"
