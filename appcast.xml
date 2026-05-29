@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Clipo Changelog</title>
+        <language>zh_CN</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <description><![CDATA[
+                <ul>
+                    <li> Clipo v1.0.0 正式发布！</li>
+                    <li> 带来全新极其顺畅的剪贴板管理体验。</li>
+                    <li> AI赋能的搜索支持快捷的图片搜索。</li>
+                    <li>多项性能优化确保运行流畅。</li>
+                    <li>多类型的文件支持</li>
+                    <li>此版本为Beta版本，仅供内部使用</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 29 May 2026 17:40:00 +0800</pubDate>
+            
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.0/Clipo_Setup.dmg"
+                sparkle:version="1.0.0"
+                sparkle:shortVersionString="1.0.0"
+                length="8618945"
+                type="application/octet-stream"
+                sparkle:edSignature="nEPFtk8RxsFJZ3JHMW73dm+NIumRNjzinFJjDA98fUCf/P3a4IiFeAbQ+kFwKBHad72iMGbS59bSTQryaExlBg==" 
+            />
+        </item>
+    </channel>
+</rss>
