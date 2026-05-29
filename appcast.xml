@@ -4,6 +4,23 @@
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
 <item>
+            <title>Version 1.0.2</title>
+            <description><![CDATA[
+                <ul>
+                    <li>细节修复。</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 29 May 2026 21:02:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.2/Clipo_Setup.dmg"
+                sparkle:version="1.0.2"
+                sparkle:shortVersionString="1.0.2"
+                length="8621406"
+                type="application/octet-stream"
+                sparkle:edSignature="vHR54UnoarvvwmQikBdGmHUbEBgR4xdOLRm2JvY2T8E5f6c70RO6l1PYswYvpA9DAiwqfTcz3kBPwPJ35oTOCg==" 
+            />
+        </item>
+<item>
             <title>Version 1.0.1</title>
             <description><![CDATA[
                 <ul>
@@ -12,12 +29,12 @@
             ]]></description>
             <pubDate>Fri, 29 May 2026 20:30:00 +0800</pubDate>
             <enclosure 
-                url="把刚刚拷贝的 v1.0.1 DMG 真实下载直链贴在这里"
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.1/Clipo_Setup.dmg"
                 sparkle:version="1.0.1"
                 sparkle:shortVersionString="1.0.1"
-                length="贴上第二步刚刚算出来的最新 length"
+                length="8621043"
                 type="application/octet-stream"
-                sparkle:edSignature="贴上第二步刚刚算出来的最新 edSignature" 
+                sparkle:edSignature="e0W+Jm58Ort1W56m+ueN4/l4mP+vf71mZH8/h8+7++rPZDJlnq3uPc8Fo36apBG+WihUcnzRs9O7IWpq824jAA==" 
             />
         </item>
         <item>
