@@ -3,6 +3,23 @@
     <channel>
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
+<item>
+            <title>Version 1.0.1</title>
+            <description><![CDATA[
+                <ul>
+                    <li>修复了自动更新的错误。</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 29 May 2026 20:30:00 +0800</pubDate>
+            <enclosure 
+                url="把刚刚拷贝的 v1.0.1 DMG 真实下载直链贴在这里"
+                sparkle:version="1.0.1"
+                sparkle:shortVersionString="1.0.1"
+                length="贴上第二步刚刚算出来的最新 length"
+                type="application/octet-stream"
+                sparkle:edSignature="贴上第二步刚刚算出来的最新 edSignature" 
+            />
+        </item>
         <item>
             <title>Version 1.0.0</title>
             <description><![CDATA[
