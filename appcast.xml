@@ -3,7 +3,9 @@
     <channel>
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
-<item>
+
+        <!-- 🚀 现役最新版 v1.0.3.1 (Build: 5) -->
+        <item>
             <title>Version 1.0.3.1</title>
             <description><![CDATA[
                 <ul>
@@ -12,7 +14,7 @@
             ]]></description>
             <pubDate>Sat, 30 May 2026 02:29:00 +0800</pubDate>
             <enclosure 
-                url="hhttps://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.3/Clipo_Setup.dmg"
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.3/Clipo_Setup.dmg"
                 sparkle:version="5" 
                 sparkle:shortVersionString="1.0.3.1"
                 length="8637175"
@@ -20,7 +22,9 @@
                 sparkle:edSignature="Z/vjHD08ZMydVUc5l3a6BDb6YGcQ6W16qQv1Ir02Ay8WYF7OotNN++MOWi0xBlE1QofS8GsRjVpj/W37cFoRBg==" 
             />
         </item>
- <item>
+
+        <!-- 📦 历史版本 v1.0.3 (Build: 4) -->
+        <item>
             <title>Version 1.0.3</title>
             <description><![CDATA[
                 <ul>
@@ -29,7 +33,7 @@
             ]]></description>
             <pubDate>Sat, 30 May 2026 02:29:00 +0800</pubDate>
             <enclosure 
-                url="hhttps://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.3/Clipo_Setup.dmg"
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.3/Clipo_Setup.dmg"
                 sparkle:version="4" 
                 sparkle:shortVersionString="1.0.3"
                 length="8637175"
@@ -37,24 +41,8 @@
                 sparkle:edSignature="Z/vjHD08ZMydVUc5l3a6BDb6YGcQ6W16qQv1Ir02Ay8WYF7OotNN++MOWi0xBlE1QofS8GsRjVpj/W37cFoRBg==" 
             />
         </item>
- <item>
-            <title>Version 1.0.2</title>
-            <description><![CDATA[
-                <ul>
-                    <li>细节修复。</li>
-                </ul>
-            ]]></description>
-            <pubDate>Fri, 29 May 2026 21:02:00 +0800</pubDate>
-            <enclosure 
-                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.2/Clipo_Setup.dmg"
-                sparkle:version="3" 
-                sparkle:shortVersionString="1.0.2"
-                length="8621406"
-                type="application/octet-stream"
-                sparkle:edSignature="vHR54UnoarvvwmQikBdGmHUbEBgR4xdOLRm2JvY2T8E5f6c70RO6l1PYswYvpA9DAiwqfTcz3kBPwPJ35oTOCg==" 
-            />
-        </item>
 
+        <!-- 📦 历史版本 v1.0.2 (Build: 3) -->
         <item>
             <title>Version 1.0.2</title>
             <description><![CDATA[
@@ -73,6 +61,7 @@
             />
         </item>
 
+        <!-- 📦 历史版本 v1.0.1 (Build: 2) -->
         <item>
             <title>Version 1.0.1</title>
             <description><![CDATA[
@@ -91,6 +80,7 @@
             />
         </item>
 
+        <!-- 🎉 初始版本 v1.0.0 (Build: 1) -->
         <item>
             <title>Version 1.0.0</title>
             <description><![CDATA[
