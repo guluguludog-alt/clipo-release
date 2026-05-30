@@ -3,6 +3,23 @@
     <channel>
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
+  <item>
+            <title>Version 1.0.4</title>
+            <description><![CDATA[
+                <ul>
+                    <li>修复了中键面板粘贴文本和图片不能正确粘贴的问题</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 30 May 2026 15:52:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.4/Clipo_Setup.dmg"
+                sparkle:version="6" 
+                sparkle:shortVersionString="1.0.4"
+                length="8641990"
+                type="application/octet-stream"
+                sparkle:edSignature="7E85y63pg7oLl1FEUmeNN4frp/N+L+hbmdb9/5I4B0o2XQuFQywPTqJUpAOgFoYFVRSXJw2oVZJQy1X6NqEdAw==" 
+            />
+        </item>
 
         <!-- 🚀 现役最新版 v1.0.3.1 (Build: 5) -->
         <item>
