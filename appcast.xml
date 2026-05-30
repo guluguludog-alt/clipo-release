@@ -3,6 +3,24 @@
     <channel>
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
+<item>
+            <title>Version 1.0.5</title>
+            <description><![CDATA[
+                <ul>
+                    <li>修复了多个问题，建议所有用户更新</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 31 May 2026 04:39:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.5/Clipo_Setup.dmg"
+                sparkle:version="7" 
+                sparkle:shortVersionString="1.0.5"
+                length="8647069"
+                type="application/octet-stream"
+sparkle:edSignature="xdn9gfmP1br7t3FhIS6e5tAQXZE6pbOTRnbjyC5OOwMN1qCGQdARSLx7aWwzbCTywQvTEXzXEQKqA8/AwX+cDw==" 
+            />
+        </item>
+
   <item>
             <title>Version 1.0.4</title>
             <description><![CDATA[
