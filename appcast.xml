@@ -4,6 +4,23 @@
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
 <item>
+            <title>Version 1.1.1</title>
+            <description><![CDATA[
+                <ul>
+                    <li>修复了一些问题</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 1 Jun 2026 16:09:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.1.1/Clipo_Setup.dmg"
+                sparkle:version="14" 
+                sparkle:shortVersionString="1.1.1"
+                length="8723670"
+                type="application/octet-stream"
+sparkle:edSignature="/4aI9v2zFtTeAMIUeZhZNKw9zkggeMWJuYcIluZccK3JJkW4PHR7y9vvufS8vPq5VzV/ORnrMAIht41YWz1pAw=="
+            />
+        </item>
+<item>
             <title>Version 1.1.10</title>
             <description><![CDATA[
                 <ul>
