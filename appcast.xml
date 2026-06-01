@@ -4,6 +4,23 @@
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
 <item>
+            <title>Version 1.0.8</title>
+            <description><![CDATA[
+                <ul>
+                    <li>移除了中键面板中剪贴卡片的删除按钮</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 1 Jun 2026 12:02:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.8/Clipo_Setup.dmg"
+                sparkle:version="10" 
+                sparkle:shortVersionString="1.0.8"
+                length="8700560"
+                type="application/octet-stream"
+                sparkle:edSignature="u/l6lxpZQ/e0esKhX/iHpfrlZJfuzvI0TgM0KW18bPhbcGtB+LxLwuDLOfCaO6KmsFknWpwynEfTrdhE9gOZDw=="
+            />
+        </item>
+<item>
             <title>Version 1.0.6</title>
             <description><![CDATA[
                 <ul>
