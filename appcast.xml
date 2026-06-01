@@ -7,6 +7,23 @@
             <title>Version 1.0.8</title>
             <description><![CDATA[
                 <ul>
+                    <li>UI调整</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 1 Jun 2026 13:01:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.8/Clipo_Setup.dmg"
+                sparkle:version="11" 
+                sparkle:shortVersionString="1.0.8"
+                length="8698497"
+                type="application/octet-stream"
+                sparkle:edSignature="w69Cwc0/O4P4vxGQpt/aotu/2Fnv/Hj2QBhjSNbxDlA8R3KFyuWN4Ld+zSpuJ9BhhR3PhLU0APzqCtAWWj4GAw=="
+            />
+        </item>
+<item>
+            <title>Version 1.0.8</title>
+            <description><![CDATA[
+                <ul>
                     <li>移除了中键面板中剪贴卡片的删除按钮</li>
                 </ul>
             ]]></description>
