@@ -4,6 +4,25 @@
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
 <item>
+            <title>Version 1.0.9</title>
+            <description><![CDATA[
+                <ul>
+                    <li>中键面板与边缘触发面板冲突问题</li>
+                    <li>中键面板粘贴图片与纯文本转换冲突问题</li>
+                    <li>UI改进</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 1 Jun 2026 15:04:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.0.8/Clipo_Setup.dmg"
+                sparkle:version="12" 
+                sparkle:shortVersionString="1.0.9"
+                length="8720410"
+                type="application/octet-stream"
+sparkle:edSignature="884bk8RLUJCANlDm8ljnARUFPMfd3U84J89nWonfuH+JZMYnF4qPqoQixR8bu1RgkeiO5WfBbp4I+m7D18pfAg=="
+            />
+        </item>
+<item>
             <title>Version 1.0.8</title>
             <description><![CDATA[
                 <ul>
