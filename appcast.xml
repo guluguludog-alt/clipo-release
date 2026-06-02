@@ -7,6 +7,23 @@
             <title>Version 1.1.3</title>
             <description><![CDATA[
                 <ul>
+                    <li>解决了一些问题</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 2 Jun 2026 11:58:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.1.4/Clipo_Setup.dmg"
+                sparkle:version="17" 
+                sparkle:shortVersionString="1.1.4"
+                length="8780356"
+                type="application/octet-stream"
+sparkle:edSignature="j7O9WyKFV83/5pvQa7SXE4ONtUSW+HUxQvHhccw9t7/iKXC+49cCQy+u64bOfM09LIyuOESk+gwzSnI5+vbMCA=="
+            />
+        </item>
+<item>
+            <title>Version 1.1.3</title>
+            <description><![CDATA[
+                <ul>
                     <li>优化了卡片列表的滑动，减少性能开销</li>
                 </ul>
             ]]></description>
