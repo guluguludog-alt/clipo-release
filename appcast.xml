@@ -4,6 +4,24 @@
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
 <item>
+            <title>Version 1.1.6</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Tag数量上限提升到100个</li>
+                    <li>新增快捷工具：便利贴</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 5 Jun 2026 00:13:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.1.6/Clipo_Setup.dmg"
+                sparkle:version="19" 
+                sparkle:shortVersionString="1.1.6"
+                length="9092696"
+                type="application/octet-stream"
+sparkle:edSignature="USvhcvO7eQfOq3O8DaayM3JtWI+kIDrixIbOMj+hsqbNZzjPoBqWmwdLEeTvyn7YX9/dFhHT4GF2Sj+aK7mMDA=="
+            />
+        </item>
+<item>
             <title>Version 1.1.5</title>
             <description><![CDATA[
                 <ul>
