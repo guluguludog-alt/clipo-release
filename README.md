@@ -1,8 +1,16 @@
 # Quick Guides
 
-**中文快速指南:** [观看视频](https://www.youtube.com/watch?v=F_4WICR8o4o)
+## 中文快速指南
 
-**英文快速指南:** [English Quick Guide](https://www.youtube.com/watch?v=Z2NndflBPVw)
+[![中文快速指南](https://img.youtube.com/vi/F_4WICR8o4o/maxresdefault.jpg)](https://www.youtube.com/watch?v=F_4WICR8o4o)
+
+[观看中文快速指南](https://www.youtube.com/watch?v=F_4WICR8o4o)
+
+## English Quick Guide
+
+[![English Quick Guide](https://img.youtube.com/vi/Z2NndflBPVw/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z2NndflBPVw)
+
+[Watch English Quick Guide](https://www.youtube.com/watch?v=Z2NndflBPVw)
 
 # Homebrew Installation
 
