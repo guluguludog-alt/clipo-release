@@ -2,11 +2,11 @@
 
 **Chinese Guide:**
 
-[![Chinese Quick Guide](使用指南中文.mp4)](使用指南中文.mp4)
+[![Chinese Quick Guide](UserGuideZH.mp4)](UserGuideZH.mp4)
 
 **English Guide:**
 
-[![English Quick Guide](快速指南英文.mp4)](快速指南英文.mp4)
+[![English Quick Guide](UserGuideEN.mp4)](UserGuideEN.mp4)
 
 # Homebrew Installation
 
