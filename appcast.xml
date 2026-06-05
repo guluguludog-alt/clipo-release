@@ -4,6 +4,23 @@
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
 <item>
+            <title>Version 1.1.7</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Option键快速粘贴</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 5 Jun 2026 18:46:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.1.7/Clipo_Setup.dmg"
+                sparkle:version="20" 
+                sparkle:shortVersionString="1.1.7"
+                length="9153357"
+                type="application/octet-stream"
+sparkle:edSignature="LR2ZoXrTtUdfl3rHw3WJmspsDHtAw8veoIcqwfRG4tHEPdco5Mmur51WaMjuYOhscp5NK5U0PURCGflR29L9Cg=="
+            />
+        </item>
+<item>
             <title>Version 1.1.6</title>
             <description><![CDATA[
                 <ul>
