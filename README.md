@@ -1,12 +1,8 @@
 # Quick Guides
 
-**Chinese Guide:**
+**中文快速指南:** [观看视频](https://www.youtube.com/watch?v=F_4WICR8o4o)
 
-[![Chinese Quick Guide](UserGuideZH.mp4)](UserGuideZH.mp4)
-
-**English Guide:**
-
-[![English Quick Guide](UserGuideEN.mp4)](UserGuideEN.mp4)
+**英文快速指南:** [English Quick Guide](https://www.youtube.com/watch?v=Z2NndflBPVw)
 
 # Homebrew Installation
 
