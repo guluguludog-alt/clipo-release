@@ -4,7 +4,7 @@
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
 <item>
-    <title>Version 1.1.8</title>
+    <title>Version 1.2.0</title>
     <description><![CDATA[
         <ul>
             <li>正式稳定版发布 / First stable release</li>
@@ -17,14 +17,14 @@
             <li>现代 macOS 界面：液态玻璃风格，支持浮动面板、底部/侧边布局、浅色/深色主题</li>
         </ul>
     ]]></description>
-    <pubDate>Sat, 6 Jun 2026 18:00:00 +0800</pubDate>
+    <pubDate>Sat, 6 Jun 2026 20:45:00 +0800</pubDate>
     <enclosure 
-        url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.1.8/Clipo_Setup.dmg"
-        sparkle:version="21" 
-        sparkle:shortVersionString="1.1.8"
-        length="10027650"
+        url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.2.0/Clipo_Setup.dmg"
+        sparkle:version="22" 
+        sparkle:shortVersionString="1.2.0"
+        length="10027772"
         type="application/octet-stream"
-        sparkle:edSignature="kYY4NLvWjCaJ3GzA6ZwRC9pJTGaG0f4OdSkejDoOZ+O8MMEOF0xnTbTEpZ86ypn6/niZUk6ir4EZEpACXWihCA=="
+        sparkle:edSignature="F5V4LUmdlTh4EKAqizztesY8DnN/k+2mYYyGFSNetD6Jbzexn6D8XQiz1qrLu5/UJAf8jfKWRCndrNjJvE1LAA=="
     />
 </item>
 <item>
