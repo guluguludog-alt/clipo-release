@@ -17,14 +17,14 @@
             <li>现代 macOS 界面：液态玻璃风格，支持浮动面板、底部/侧边布局、浅色/深色主题</li>
         </ul>
     ]]></description>
-    <pubDate>Sat, 6 Jun 2026 20:45:00 +0800</pubDate>
+    <pubDate>Sat, 6 Jun 2026 23:54:00 +0800</pubDate>
     <enclosure 
         url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.2.0/Clipo_Setup.dmg"
         sparkle:version="22" 
         sparkle:shortVersionString="1.2.0"
-        length="10027344"
+        length="10027327"
         type="application/octet-stream"
-sparkle:edSignature="F6d4/NLz3M9T0lBcyQyRaMLMbkmvmSEDaSxGA1wvoSdJ4GfvB/d9OA1POxioqDZDZQl3mF6+ysonX8OdKugUBA=="
+sparkle:edSignature="YuhCtx5MGgDi0q8GObZemTgUfBR6gv4OhPJehGQix5RT5mC4E161NTxAS2NBrf7re54hYgxJwOw5IQ9e+pROCA=="
     />
 </item>
 <item>
