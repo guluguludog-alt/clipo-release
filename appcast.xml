@@ -4,6 +4,30 @@
         <title>Clipo Changelog</title>
         <language>zh_CN</language>
 <item>
+    <title>Version 1.2.1</title>
+    <description><![CDATA[
+        <ul>
+            <li>正式稳定版发布 / First stable release</li>
+            <li>剪贴板管理：支持文本、图片、文件、代码、表格、视频、音频多类型记录与快速调用</li>
+            <li>多种快速粘贴方式：点击、快捷键、数字选择、拖拽、中键悬停粘贴</li>
+            <li>文件中转站：临时保存文件，可拖拽到其他应用或上传区域</li>
+            <li>快捷 AirDrop：直接从面板发送文件与剪贴板内容</li>
+            <li>AI 扩展：自然语言搜索、内容总结、翻译、数据整理、改写、图片索引</li>
+            <li>存储管理：记录文件大小、字符数、粘贴次数、最近粘贴时间，可清理无用记录</li>
+            <li>现代 macOS 界面：液态玻璃风格，支持浮动面板、底部/侧边布局、浅色/深色主题</li>
+        </ul>
+    ]]></description>
+    <pubDate>Sat, 6 Jun 2026 20:45:00 +0800</pubDate>
+    <enclosure 
+        url="https://github.com/guluguludog-alt/clipo-release/releases/download/v1.2.1/Clipo_Setup.dmg"
+        sparkle:version="23" 
+        sparkle:shortVersionString="1.2.1"
+        length="10027339"
+        type="application/octet-stream"
+sparkle:edSignature="u9IGKRpjDluYXy2uOwbMJAqFf54AqfWQG99IsDmdZj1fg9Va+Ki1KdqrsAIzIvUrHetXkM4e1T7U/HW0zRbzAQ=="
+    />
+</item>
+<item>
     <title>Version 1.2.0</title>
     <description><![CDATA[
         <ul>
